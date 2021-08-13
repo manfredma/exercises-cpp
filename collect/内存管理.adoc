@@ -1,0 +1,7 @@
+
+
+==  参考
+[%hardbreaks]
+https://www.zhihu.com/question/27639400[变量的声明、定义、赋值和初始化有什么区别？]
+https://www.huaweicloud.com/articles/46a1af34db2782d3176c3664d55d52b0.html[内存分配方式，堆区，栈区，new/delete/malloc/free]
+
